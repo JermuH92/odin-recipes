@@ -28,7 +28,8 @@ In conclusion I learned the following.
 
   - Use one h1 header per page, and utilised other headers and paragraphs where necessary.
 
-  - Utilised unordered and ordered lists for their purpose such as listing the ingredients needed for the recipe and steps to produce it.
+  - Utilised unordered and ordered lists for their purpose such as listing the ingredients needed for the recipe and steps to produce it. 
+  Also utilised emmet abbreviations to make multiple list elements quickly.
 
   - Separated main index.html and each recipe to their own folders and linked the pages relatively to get access two-ways from main index to the recipes.
 
