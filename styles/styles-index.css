@@ -17,12 +17,19 @@ h1 {
   margin-bottom: 40px;
 }
 
+.header {
+  border-bottom: 2px double black;
+  padding: 20px;
+  margin-top: 20px;
+}
+
 
 ul {
   text-align: center;
   list-style-position: inside;
   list-style-type: none;
-  margin-right: 45px;
+  margin-right: 50px;
+  margin-top: 5em;
 }
 
 
@@ -41,5 +48,5 @@ a {
 a:hover {
   color: white;
   background-color: aqua;
-  border: 2px dashed black;
+  border: 1px dashed black;
 }
