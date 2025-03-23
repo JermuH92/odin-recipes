@@ -1,6 +1,12 @@
 # odin-recipes
 # HTML/CSS Practice Project - Odin
 
+# Update 2 - 23/03/2025 - CSS Version Phase 1 - Complete
+
+Finishing the first phase of CSSifying the HTML recipe project. Added styling to all of the stylesheets and used box model, block and inline elements
+to my advantage, also started adding div containers to headers for potential future expansion for a navbar, utilized additional techniques such as
+text-decoration and list-style position and type modifiers not part of the curriculum so far.
+
 # Update 23/03/2025 - CSS Version Phase 1
 
 Starting 23rd of March, updating the recipes page with CSS Practice until end of the foundations course conserning CSS, learning goals for CSS and post project reflection at the end of the course before moving onto JavaScript.

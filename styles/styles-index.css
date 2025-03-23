@@ -50,3 +50,6 @@ a:hover {
   background-color: aqua;
   border: 1px dashed black;
 }
+
+/* Modify with comment to see if styling updates on GH pages, as for some
+reason index.html isn't updating properly. */
