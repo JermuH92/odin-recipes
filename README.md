@@ -38,3 +38,7 @@ In conclusion I learned the following.
   - Used iterative tactics and good commit habits to document the process of building the webpage.
 
   - Reinforced the basics of HTML, and understood the idea that I can further iterate on this project after getting a refresher on CSS and JavaScript, so expect updates to this.
+
+# Update 23/03/2025 - CSS Version Phase 1
+
+Starting 23rd of March, updating the recipes page with CSS Practice until end of the foundations course conserning CSS, learning goals for CSS and post project reflection at the end of the course before moving onto JavaScript.
